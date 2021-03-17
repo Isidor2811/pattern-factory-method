@@ -1,4 +1,4 @@
-package good_approach;
+package developers_example.good_approach;
 
 public interface Developer {
 

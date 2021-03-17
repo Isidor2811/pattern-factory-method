@@ -1,4 +1,4 @@
-package bad_approach;
+package developers_example.bad_approach;
 
 public class JavaDeveloper {
 
